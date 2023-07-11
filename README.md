@@ -23,3 +23,5 @@ If you’re done early Keep going! Add more features, and tests, and polish the 
 **MORE INFO**
 
 Manual QA Review It is your responsibility to request a review for your Google Doc from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a staff member.
+
+![image](https://github.com/shrfhnlbr/MVP/assets/113669428/553efdd0-6e10-48e4-b7ab-e1b703c24fe7)
